@@ -2,8 +2,9 @@ function Header(){
     return (
         <header>
             <nav> 
+                
                 <ul>
-                    <li><a href = "#">EmanBryndt</a></li>
+                    <li class = "name">Eman Bryndt</li>
                     <li><a href = "#">Home</a></li>
                     <li><a href = "#">About</a></li>
                     <li><a href = "#">Services</a></li>
