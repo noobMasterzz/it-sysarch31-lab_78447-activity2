@@ -54,6 +54,7 @@ ul {
 
 li {
   float: left;
+  font-family: sans-serif;
 }
 
 li a {
@@ -62,6 +63,7 @@ li a {
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
+
 }
 
 
@@ -74,4 +76,7 @@ ul li.name {
   padding: 14px 16px;
   color: white;
   font-size: 30px;
+}
+footer{
+  text-align: center;
 }
